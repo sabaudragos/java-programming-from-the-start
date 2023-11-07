@@ -1,0 +1,17 @@
+#Datatypes
+- primivitive vs object datatypes 
+- equality between primitive datatypes
+- equality between object datatypes
+
+#Variables
+- how to declare them (type name = value)
+- variables vs constants 
+- variable casting (widening vs narrowing Casting)
+
+#Java Operators
+  - Arithmetic operators
+  - Assignment operators
+  - Comparison operators
+  - Logical operators
+  - Bitwise operators
+
